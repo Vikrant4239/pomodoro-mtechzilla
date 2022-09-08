@@ -1,0 +1,26 @@
+.setSlider{
+    height: 25px;
+    border-radius: 25px;
+    border: 2px solid red;
+}
+.thumb{
+    background-color: red ;
+    cursor: pointer;
+    width: 20px;
+    height: 25px;
+    border-radius: 20px;
+
+}
+.setSlider2{
+    height: 25px;
+    border-radius: 25px;
+    border: 2px solid green;
+}
+.thumb2{
+    background-color: green ;
+    cursor: pointer;
+    width: 20px;
+    height: 25px;
+    border-radius: 20px;
+
+}
